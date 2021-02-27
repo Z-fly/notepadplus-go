@@ -1,3 +1,8 @@
+- *Go语言QQ群: 102319854, 1055927514*
+- *凹语言(凹读音“Wa”)(The Wa Programming Language): https://github.com/wa-lang/wa*
+
+----
+
 Notepad++ syntax highlighting
 -----------------------------
 
@@ -52,7 +57,7 @@ Notepad++ keyword auto-completion
 ---------------------------------
 
   1. Given a Notepad++ installation at `<DIR>`.
-  2. Copy `go.xml` to `<DIR>\plugins\APIs`
+  2. Copy `go.xml` to the `<DIR>\autoCompletion` directory
   3. Restart Notepad++
 
 **Reference:**
